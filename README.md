@@ -11,6 +11,7 @@ iOS dev • sketchnoting • accessibility • photography • pineapple on pizz
 - I make sketchnotes and write blogs posts (you can find them on [my website][website])
 - Improving my website, learning more about CSS & HTML and Best Practices in Frontend Development
 - I like to play around with APIs or new features, which I always wanted to try out and use them in [Cineaste App (iOS)][cineaste], if it makes sense for the app
+- I'm glad I discovered [Critical Maps (iOS)][criticalmaps] where I can contribute to and help maintaining the project 🚲
 
 ## More of this
 
@@ -28,3 +29,4 @@ iOS dev • sketchnoting • accessibility • photography • pineapple on pizz
 
 [website]: https://fbernutz.github.io
 [cineaste]: https://github.com/spacepandas/cineaste-ios
+[criticalmaps]: https://github.com/criticalmaps/criticalmaps-ios
